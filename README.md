@@ -1,3 +1,5 @@
+![It is an image](https://github.com/NzolaKiampava/Netflix-clone/blob/master/src/Opera%20Instant%C3%A2neo_2022-07-31_002525_localhost.png)
+
 # food_delivery APP
 
 A new Flutter project.
