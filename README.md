@@ -1,4 +1,4 @@
-![It is an image](https://github.com/NzolaKiampava/ecommerce-flutter/blob/main/F1%20(2).png | width=100)
+![It is an image](https://github.com/NzolaKiampava/ecommerce-flutter/blob/main/F1%20(2).png)
 
 # food_delivery APP
 
